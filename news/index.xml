@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>News on ROB-IN Project</title>
+    <link>https://cbarrue.github.io/news/</link>
+    <description>Recent content in News on ROB-IN Project</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://cbarrue.github.io/news/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kick Off!</title>
+      <link>https://cbarrue.github.io/news/2021/08/01/test/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      
+      <guid>https://cbarrue.github.io/news/2021/08/01/test/</guid>
+      <description>Photo by Jason Goodman on Unsplash
+hi
+blahblah</description>
+    </item>
+    
+  </channel>
+</rss>
